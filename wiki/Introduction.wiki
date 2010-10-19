@@ -14,18 +14,18 @@ We can build a framework for a modular community tool for timex extraction and n
 = Plan =
 
 Acquire a codebase that's modular and can be extended in the way we wish. Possible candidates that fit these criteria are:
-* HeidelTime (entrant in TempEval-2, UIMA component)
-* TERNIP (structured Python re-write of GUTime, GATE component)
+  * HeidelTime (entrant in TempEval-2, UIMA component)
+  * TERNIP (structured Python re-write of GUTime, GATE component)
 
 Create a testing architecture for both extraction and normalisation, that reports on:
-* Timex recognition rates
-* Per-rule and overall timex normalisation accuracy
-* Timex partial matching in cases where the timex is normalised overlapping but not matching the gold standard
+  * Timex recognition rates
+  * Per-rule and overall timex normalisation accuracy
+  * Timex partial matching in cases where the timex is normalised overlapping but not matching the gold standard
 
 Expand the amount of TIMEX annotated literature
 
 Grow the rulebase:
-* First, include all rules from existing published / open projects
-* Secondly, improve performance through error analysis
+  * First, include all rules from existing published / open projects
+  * Secondly, improve performance through error analysis
 
 Improve recognition, through rule tweaks and the inclusion of a trainable BIO tagger.
