@@ -9,12 +9,12 @@ However, it's clear that to solve the timex normalisation problem, we need some 
 It's also clear that many researchers have built rule-based normalisation system and achieved high - but not complete - resolution.
 
 
-We can build a framework for a modular community tool for timex extraction and normalisation, and achieve vastly higher performance than seen at either TempEval challenge. Our goal is to enable and encourage our community to work on these problems, through the creation and maintenance of an open-source project. 
+We can build a framework for a modular community tool for timex extraction and normalisation, and achieve vastly higher performance than seen at either Tempeval challenge. Our goal is to enable and encourage our community to work on these problems, through the creation and maintenance of an open-source project. 
 
 = Plan =
 
 Acquire a codebase that's modular and can be extended in the way we wish. Possible candidates that fit these criteria are:
-  * HeidelTime (entrant in TempEval-2, UIMA component)
+  * HeidelTime (entrant in Tempeval-2, UIMA component)
   * TERNIP (structured Python re-write of GUTime, GATE component)
 
 Create a testing architecture for both extraction and normalisation, that reports on:
