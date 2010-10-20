@@ -34,5 +34,4 @@ Improve recognition, through rule tweaks and the inclusion of a trainable BIO ta
 
   * [http://dbs.informatik.uni-heidelberg.de/fileadmin/Team/jannik/StroetgenGertz2010_semeval.pdf HeidelTime]
   * [http://www.timeml.org/tempeval2/ Tempeval-2]
-  * [http://svn.pling.org.uk/ternip/trunk/docs/dissertation.pdf
- TERNIP]
+  * [http://svn.pling.org.uk/ternip/trunk/docs/dissertation.pdf TERNIP]
