@@ -1,5 +1,5 @@
-= Installation =
+== Installation ==
 
-= Performance =
+== Performance ==
 
-= Rule writing =
+== Rule writing ==
